@@ -1,6 +1,6 @@
 import React from "react";
-import Menu from "./Menu";
-import ToyCard from "./ToyCard";
+import Menu from "./components/Menu";
+import ToyCard from "./components/ToyCard";
 
 const toys = [
   {
